@@ -1,0 +1,11 @@
+# BiomedCoOp defaults (paper / official base_to_novel configs)
+n_ctx: 4
+ctx_init: "a photo of a"
+n_prompts: 50          # N LLM descriptions per class
+sccm_lambda: 0.25      # lambda1  (SCCM weight)
+kdsp_lambda: 3.0       # lambda2  (KDSP weight)
+tau: 1.25              # zeta_s   (MAD selection threshold)
+lr: 0.0025
+epochs: 100            # 100 few-shot, 50 base-to-novel
+batch_size: 4
+num_workers: 4

@@ -1,0 +1,18 @@
+{
+  "glioma tumor": [
+    "On brain MRI, a glioma often appears as an infiltrative mass with irregular margins and surrounding edema.",
+    "Glioma in MRI shows heterogeneous signal intensity and possible central necrosis."
+  ],
+  "meningioma tumor": [
+    "A meningioma on MRI is typically a well-circumscribed extra-axial mass with broad dural attachment.",
+    "Meningioma shows homogeneous enhancement and a dural tail sign on contrast MRI."
+  ],
+  "no tumor": [
+    "A normal brain MRI shows symmetric hemispheres with no abnormal mass or signal.",
+    "No-tumor MRI presents intact gray-white differentiation and normal ventricles."
+  ],
+  "pituitary tumor": [
+    "A pituitary tumor on MRI is centered in the sella turcica, sometimes with suprasellar extension.",
+    "Pituitary adenoma shows a focal sellar mass that may displace the optic chiasm."
+  ]
+}
